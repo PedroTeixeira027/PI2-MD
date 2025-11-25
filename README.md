@@ -5,6 +5,7 @@ Este projeto aplica técnicas de aprendizado de máquina não supervisionado uti
 
 A empresa fictícia ShopNow deseja identificar grupos naturais de clientes para apoiar estratégias de marketing.
 O dataset contém variáveis como:
+
 compras mensais
 gasto médio
 tempo de cadastro
