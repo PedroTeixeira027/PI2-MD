@@ -19,7 +19,6 @@ DBSCAN
 Dataset fictício gerado artificialmente.
 Remoção de duplicatas.
 Tratamento de valores ausentes usando mediana.
-
 Padronização para os algoritmos que exigem escala.
 O objetivo foi garantir dados consistentes para o processo de clusterização.
 
